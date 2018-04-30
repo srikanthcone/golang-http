@@ -65,5 +65,3 @@ watch:
 
 skaffold-run: build
 	skaffold run -p dev
-	jx get app
-
